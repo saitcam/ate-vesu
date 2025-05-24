@@ -1,14 +1,28 @@
 let total = 0;
-let dailyGoal = 2000;
+let dailyGoal = 3000;
 
 const motivationalMessages = [
+    "Seni çok seviyorum Seray 💖",
     "Günaydın Seray'cım! Yeni bir güne başlıyoruz 🌸",
     "Su içmeyi unutma tatlım! 💖",
     "Günlük hedefine yaklaşıyorsun, harikasın! ✨",
     "Kendine iyi baktığın için çok mutluyum 💝",
     "Su içmek cildini güzelleştirir! 💫",
     "Sağlıklı bir yaşam için su çok önemli! 🌊",
-    "Bugün kendine iyi bak Seray'cım! 🎀"
+    "Bugün kendine iyi bak Seray'cım! 🎀",
+    "Bir bardak su ile tazelen! 💦",
+    "Her yudumda sağlığına sağlık katıyorsun! 🥰",
+    "Az kaldı, hedefine ulaşacaksın! 🚀",
+    "Küçük adımlar büyük değişimler yaratır! 🌱",
+    "Su içmek enerjini artırır! ⚡",
+    "Harika gidiyorsun, pes etme! 🙌",
+    "Bugün de kendin için güzel bir şey yaptın! 🌷",
+    "Unutma, sen çok değerlisin! 💎",
+    "Biraz su, biraz mutluluk! 😊",
+    "Her yudumda kendine yatırım yapıyorsun! 💸",
+    "Vücudun sana teşekkür edecek! 🙏",
+    "Su içmek alışkanlık, sağlık ise ödül! 🏆",
+    "Kendini sev, su iç! 💗"
 ];
 
 // DOM elementlerini seç
